@@ -1,0 +1,29 @@
+ h1 {
+    color:rgb(79, 42, 165);   
+    border: 10px solid dimgray;
+    background-color:rgb(255, 255, 255);
+   }
+  /* *{
+      border:solid;
+  }  */
+  body{
+    background-color: aliceblue;
+}
+  .header{
+      background-color:crimson;
+      display:flex;
+      justify-content:space-between; 
+  }
+
+
+p,h2{
+   font-family: Arial, Helvetica, sans-serif ;
+   font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
